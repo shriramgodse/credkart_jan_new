@@ -1,0 +1,10 @@
+INFO     Test_User_Profile:test_UserProfile.py:21 test_UserRegistration_001 is started
+INFO     Test_User_Profile:test_UserProfile.py:28  Opening Browser
+INFO     Test_User_Profile:test_UserProfile.py:34 Going to Url-->https://automation.credence.in/register
+INFO     Test_User_Profile:test_UserProfile.py:39 Entering the name
+INFO     Test_User_Profile:test_UserProfile.py:45 Entering the Email-->dqre@outlook.com
+INFO     Test_User_Profile:test_UserProfile.py:51 Entering the password
+INFO     Test_User_Profile:test_UserProfile.py:56 Entering the confirm password
+INFO     Test_User_Profile:test_UserProfile.py:62 Clicking on Register Button
+INFO     Test_User_Profile:test_UserProfile.py:74 test_UserRegistration_001 is pass
+INFO     Test_User_Profile:test_UserProfile.py:85 test_UserRegistration_001 is completed
