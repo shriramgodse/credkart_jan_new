@@ -1,2 +1,0 @@
-This is to check whether remote repose working fine or not!
-Hello from Remote repose...I'mworking fine!
